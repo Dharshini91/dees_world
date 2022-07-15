@@ -46,7 +46,7 @@ databricks-cli==0.8.7
 ddt==1.2.1
 decorator==4.4.0
 defusedxml==0.6.0
-distributed==2.6.0
+distributed==2021.10.0
 docker==4.0.2
 docutils==0.15.2
 entrypoints==0.3
