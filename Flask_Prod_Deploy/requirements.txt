@@ -1,4 +1,4 @@
-﻿alabaster==0.7.12
+alabaster==0.7.12
 alembic==1.0.11
 anaconda-client==1.7.2
 anaconda-navigator==1.9.7
@@ -106,7 +106,7 @@ mistune==0.8.4
 mkl-fft==1.0.14
 mkl-random==1.1.0
 mkl-service==2.3.0
-mlflow==1.1.0
+mlflow==2.3.1
 mock==3.0.5
 more-itertools==7.2.0
 mpmath==1.1.0
