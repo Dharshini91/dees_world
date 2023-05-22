@@ -1,4 +1,4 @@
-﻿alabaster==0.7.12
+alabaster==0.7.12
 alembic==1.0.11
 anaconda-client==1.7.2
 anaconda-navigator==1.9.7
@@ -180,7 +180,7 @@ QtAwesome==0.6.0
 qtconsole==4.5.5
 QtPy==1.9.0
 querystring-parser==1.2.4
-requests==2.22.0
+requests==2.31.0
 rope==0.14.0
 ruamel-yaml==0.15.46
 scikit-image==0.15.0
